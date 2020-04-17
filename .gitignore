@@ -1,3 +1,7 @@
 .gitignore~
 *~
 *.swp
+*.lnk
+vlaamse_gem/
+taal/original-date.txt
+kunst/zoniën.doc
