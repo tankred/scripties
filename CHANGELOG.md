@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.2] - 2020-04-19
 ### CHANGED
 - Move all kunst/*.html* files to build/
+### Added
+- css/main.css
 
 ## [0.1.1] - 2020-04-17
 ### Added
