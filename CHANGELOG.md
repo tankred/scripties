@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.2.0] - 2020-04-19
+### CHANGED
+- Bump version to 0.2
+
 ## [0.1.2] - 2020-04-19
 ### CHANGED
 - Move all kunst/*.html* files to build/
@@ -18,8 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - kunst/
 ### CHANGED
 - ignore link to _halebopp_ machine
-
-## [Released]
 
 ## [0.1.0] - 2019-09-23 
 ### Added
