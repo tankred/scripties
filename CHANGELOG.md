@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1] - 2020-04-19
+### CHANGED
+- Remove site.manifest link on jandl
+### Added
+- Add LICENCE Gnu GPL 3.0
+
 ## [Released]
 
 ## [0.2.0] - 2020-04-19
