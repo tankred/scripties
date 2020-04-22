@@ -1,7 +1,13 @@
 # Scripties
 
 Collection of scripties on art and language. 
+
 Lang: NL
+
+## Published on tilde.club
+
+- [jandl](https://tilde.club/~miccaman/scripties/kunst/jandl.html)
+- [kawara](https://tilde.club/~miccaman/scripties/kunst/kawara.html)
 
 ## Getting Started
 

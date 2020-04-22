@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.2] - 2020-04-22
+### CHANGED
+- Update On Kawara
+### Added
+- kawara css
+
 ## [0.2.1] - 2020-04-19
 ### CHANGED
 - Remove site.manifest link on jandl
