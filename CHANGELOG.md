@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.2] - 2020-04-22
+### CHANGED
+- Apply font mathjax on txt kirkeby
+- Finetuning text on Per Kirkeby
+
 ## [0.3.1] - 2020-04-22
 ### CHANGED
 - Clean rEAdMe page
