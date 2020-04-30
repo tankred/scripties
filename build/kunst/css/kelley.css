@@ -1,0 +1,46 @@
+/* mobile first */
+/* 1, 1.24, 1.62, 2, 2.62, 3.24, 4.24, 5.24 */
+/* Modular rule by Le Corbusier */
+/* 0.95, 1.53, 2.48, 4.01, 6.49, 10.50, 17, 21, 27.50 */
+
+body {
+  font-family: Utopia, 'URW Bookman', 'Bitstream Charter', sans-serif;
+  font-size: 1.53em;
+  background-color: whitesmoke;
+}
+
+#container {
+  margin: 1.24em;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+ 
+.item {
+    margin: 1rem;
+}
+
+h1 {
+  font-family: 'MathJax_AMS', Waree, Montserrat, sans-serif;
+  font-weight: bold;
+  text-align: right;
+}
+h2 {
+  font-family: Montserrat, 'Bitstream Charter', sans-serif;
+  font-size: 0.95em;
+  text-align: right;
+}
+p {
+  text-align: justify;
+  text-justify: inter-word;
+    height: 280px;
+    margin: 1rem;
+    width: 420px;
+}
+ul, .bronnen {
+  text-transform: none;
+  font-size: 0.72em;
+  font-weight: lighter;
+  padding-top: 2em;
+}
+
