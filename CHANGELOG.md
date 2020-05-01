@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.5.0] - 2020-05-01
+### CHANGED
+- Bump version to 0.5
+
 ## [0.4.3] - 2020-05-01
 ### CHANGED
 - Update Kelly with flexbox
@@ -17,8 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.4.1] - 2020-04-29
 ### CHANGED
 - Update README
-
-## [Released]
 
 ## [0.4.0] - 2020-04-29
 ### CHANGED
