@@ -10,16 +10,15 @@ body {
 }
 
 #container {
-  margin: 1.24em;
+  margin: 1em;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
 }
- 
 .item {
     margin: 1rem;
+    width: 380px;
 }
-
 h1 {
   font-family: 'MathJax_AMS', Waree, Montserrat, sans-serif;
   font-weight: bold;
@@ -33,13 +32,11 @@ h2 {
 p {
   text-align: justify;
   text-justify: inter-word;
-    height: 280px;
-    margin: 1rem;
-    width: 420px;
-}
-ul, .bronnen {
-  text-transform: none;
   font-size: 0.72em;
+}
+.bronnen {
+  text-transform: none;
+  font-size: 0.62em;
   font-weight: lighter;
   padding-top: 2em;
 }
