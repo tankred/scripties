@@ -8,6 +8,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.5.0] - 2020-05-01
+### CHANGED
+- Bump version to 0.5
+
+## [0.4.3] - 2020-05-01
+### CHANGED
+- Update Kelly with flexbox
+
+## [0.4.2] - 2020-04-30
+### CHANGED
+- Update Kelly
+
+## [0.4.1] - 2020-04-29
+### CHANGED
+- Update README
+
 ## [0.4.0] - 2020-04-29
 ### CHANGED
 - Bump version to 0.4
