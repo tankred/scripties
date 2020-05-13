@@ -25,6 +25,11 @@ h1 {
   color: #001F3F;
 }
 
+::selection {
+  color: #ececec;
+  background: #222831;
+}
+
 /* desktop: */
 @media only screen and (min-width: 768px) and (max-width:1407px) {
   /* 1, 1.24, 1.62, 2, 2.62, 3.24, 4.24, 5.24 */
