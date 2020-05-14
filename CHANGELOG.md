@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.7.0] - 2020-05-14
+### CHANGED
+- Stylelint css files
+### Added
+- Stylelint 
+- package.json
+
+## [0.6.1] - 2020-05-13
+### CHANGED
+- Change the text-selection background color
+
+## [0.6.0] - 2020-05-13
+### Added
+- Shift communication
+
+## [0.5.1] - 2020-05-10
+### CHANGED
+- De prinses van Benin 
+### Added
+- benin css
+
 ## [Released]
 
 ## [0.5.0] - 2020-05-01
