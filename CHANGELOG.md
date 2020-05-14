@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [1.0.0] - 2020-05-14
+### CHANGED
+- Bump version to 1.0.0
+
 ## [0.7.0] - 2020-05-14
 ### CHANGED
 - Stylelint css files
@@ -26,8 +32,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - De prinses van Benin 
 ### Added
 - benin css
-
-## [Released]
 
 ## [0.5.0] - 2020-05-01
 ### CHANGED
