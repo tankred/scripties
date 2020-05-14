@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.7.0] - 2020-05-14
+### CHANGED
+- Stylelint css files
+### Added
+- Stylelint 
+- package.json
+
 ## [0.6.1] - 2020-05-13
 ### CHANGED
 - Change the text-selection background color

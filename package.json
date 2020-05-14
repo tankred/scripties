@@ -1,0 +1,28 @@
+{
+  "name": "scripties",
+  "version": "1.0.0",
+  "description": "scripties ",
+  "main": "build/kunst/jandl.html",
+  "dependencies": {
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tankred/scripties.git"
+  },
+  "keywords": [
+    "art",
+    "language"
+  ],
+  "author": "Kurt L. Duyck",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tankred/scripties/issues"
+  },
+  "homepage": "https://github.com/tankred/scripties#readme"
+}
