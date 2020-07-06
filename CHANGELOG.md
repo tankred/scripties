@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2020-07-06
+### CHANGED
+- Add a css reset to Balthus 
+
 ## [1.0.1] - 2020-05-27
 ### CHANGED
 - run a Typography Prototyping Phase on scriptie S. Hertmans
