@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [1.2.0] - 2020-07-20
+### CHANGED
+- Merged dependabot fix lodash update
+
 ## [1.1.0] - 2020-07-20
 ### CHANGED
 - Bump version to 1.1
