@@ -36,5 +36,9 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
+* [Font Library](https://fontlibrary.org/en/font/open-sauce-two)
+* [jrl.ninja](https://jrl.ninja/etc/1/)
+* [A modern CSS reset](https://hankchizljaw.com/wrote/a-modern-css-reset/)
+
 
 
