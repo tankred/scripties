@@ -1,0 +1,12 @@
+
+main {
+  max-width: 70ch;
+  padding: 2ch;
+  margin: auto;
+}
+
+h2 {
+   font-family: 'OpenSauceTwoRegular';
+   font-weight: bolder;
+   font-style: normal;
+} 
