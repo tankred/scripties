@@ -1,0 +1,58 @@
+/* mobile first */
+
+/* 1, 1.24, 1.62, 2, 2.62, 3.24, 4.24, 5.24 */
+
+/* Modular rule by Le Corbusier                       *
+ * 0.95, 1.53, 2.48, 4.01, 6.49, 10.50, 17, 21, 27.50 */
+
+body {
+  font-family: 'Bitstream Charter', Georgia, serif;
+  font-size: 1.62em;
+}
+
+#container {
+  margin: 1.24em;
+}
+
+h1 {
+  font-family: Cantarell, Gotham, sans-serif;
+  font-weight: lighter;
+}
+
+.obrot {
+  font-family: monospace;
+  padding: 1.53em 4.24em;
+}
+
+.bronnen {
+  font-size: 0.72em;
+  font-weight: lighter;
+  padding-top: 2em;
+  color: #001f3f;
+}
+
+::selection {
+  color: #ececec;
+  background: #222831;
+}
+
+/* desktop: */
+
+@media only screen and (min-width: 768px) and (max-width: 1407px) {
+  /* 1, 1.24, 1.62, 2, 2.62, 3.24, 4.24, 5.24 */
+  #container {
+    margin: 1.24em 5.24em;
+  }
+}
+
+@media only screen and (min-width: 1408px) and (max-width: 1741px) {
+  #container {
+    margin: 1.53em 17em;
+  }
+}
+
+@media only screen and (min-width: 1742px) {
+  #container {
+    margin: 1.53em 21em;
+  }
+}
