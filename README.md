@@ -9,7 +9,7 @@ Lang: NL
 - [jandl](https://tilde.club/~miccaman/scripties/kunst/jandl.html)
 - [kawara](https://tilde.club/~miccaman/scripties/kunst/kawara.html)
 - [kirkeby](https://tilde.club/~miccaman/scripties/kunst/kirkeby.html)
-- [kelley](https://tilde.club/~miccaman/scripties/kunst/kelly.html)
+- [kelley](https://tilde.club/~miccaman/scripties/kunst/kelley.html)
 
 ## Getting Started
 

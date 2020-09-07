@@ -6,14 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [1.3.0] - 2020-09-07
+### CHANGED
+- Fix typo in URL Kelly on README
+
 ## [1.2.1] - 2020-07-29
 ### CHANGED
 - Add title h1 Balthus
 ### Added
 - balthus.css (font pairing)
 - tilt.svg
-
-## [Released]
 
 ## [1.2.0] - 2020-07-20
 ### CHANGED
