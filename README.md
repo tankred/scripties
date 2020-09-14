@@ -11,10 +11,10 @@ Lang: NL
 - [kirkeby](https://tilde.club/~miccaman/scripties/kunst/kirkeby.html)
 - [kelley](https://tilde.club/~miccaman/scripties/kunst/kelley.html)
 
-![screenshot K](resources/2020-09-14-14_24_23-ke-s.png)
-![screenshot P](resources/2020-09-14-14_24_05-Pe-s.png)
-![screenshot O](resources/2020-09-14-14_23_49-On-s.png)
-![screenshot J](resources/2020-09-14-14_23_18-ja-s.png)
+![screenshot K](resources/screely-1600087225022.png)
+![screenshot P](resources/screely-1600087208865.png)
+![screenshot O](resources/screely-1600087195424.png)
+![screenshot J](resources/screely-1600087165870.png)
 
 ## Getting Started
 
