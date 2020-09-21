@@ -1,15 +1,22 @@
 {
   "name": "scripties",
-  "version": "1.3.1",
+  "version": "1.4.1",
   "description": "scripties ",
   "main": "build/kunst/jandl.html",
   "dependencies": {
     "stylelint": "^13.6.1",
     "stylelint-config-standard": "^20.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "parcel-bundler": "^1.12.4",
+    "postcss-cli": "^7.1.2"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minify-css": "postcss src/**/*.css --base src --dir build/kunst",
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html -d build/kunst"
   },
   "repository": {
     "type": "git",
