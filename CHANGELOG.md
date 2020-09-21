@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [1.5.1] - 2020-09-21
+### CHANGED
+- Fix parcel public url --public-url ./
+
 ## [1.5.0] - 2020-09-21
 ### CHANGED
 - tilde.club + scripties : Balthus 
