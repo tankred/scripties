@@ -6,11 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.4.1] - 2020-09-21
+### CHANGED
+- tilde.club + scripties : Balthus 
+
+## [Released]
+
+## [1.4.0] - 2020-09-21
+### CHANGED
+- Bump version to 1.4.0
+
 ## [1.3.1] - 2020-09-14
 ### CHANGED
 - Added screenshots in readme
-
-## [Released]
 
 ## [1.3.0] - 2020-09-07
 ### CHANGED

@@ -2,7 +2,9 @@
 *~
 *.swp
 *.lnk
+.cache/
 node_modules/
+build/
 vlaamse_gem/
 taal/original-date.txt
 kunst/zoniën.doc
