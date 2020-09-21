@@ -11,6 +11,11 @@ Lang: NL
 - [kirkeby](https://tilde.club/~miccaman/scripties/kunst/kirkeby.html)
 - [kelley](https://tilde.club/~miccaman/scripties/kunst/kelley.html)
 
+![screenshot K](resources/screely-1600087225022.png)
+![screenshot P](resources/screely-1600087208865.png)
+![screenshot O](resources/screely-1600087195424.png)
+![screenshot J](resources/screely-1600087165870.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
