@@ -1,6 +1,6 @@
 {
   "name": "scripties",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "description": "scripties ",
   "main": "build/kunst/jandl.html",
   "dependencies": {
@@ -16,7 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "minify-css": "postcss src/**/*.css --base src --dir build/kunst",
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html -d build/kunst"
+    "build": "parcel build src/*.html -d build/kunst --public-url ./"
   },
   "repository": {
     "type": "git",
