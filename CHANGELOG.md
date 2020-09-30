@@ -6,12 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.5.3] - 2020-09-30
+### ADDED
+- Add a serviceworker
+
+## [Released]
+
 ## [1.5.2] - 2020-09-28
 ### CHANGED
 - Fix node-forge sec issue 
 - Upgrade node-forge to version 0.10.0 or later
-
-## [Released]
 
 ## [1.5.1] - 2020-09-21
 ### CHANGED
