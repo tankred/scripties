@@ -5,6 +5,7 @@
 .cache/
 node_modules/
 build/
+dist/
 vlaamse_gem/
 taal/original-date.txt
 kunst/zoniën.doc
