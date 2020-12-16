@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### CHANGED
 - Fix npm and yarn ini-1.3.8
 
+## [1.5.3] - 2020-09-28
+### ADDED
+- Add social card
+
 ## [1.5.2] - 2020-09-28
 ### CHANGED
 - Fix node-forge sec issue 
