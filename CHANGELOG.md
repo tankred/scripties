@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [1.8.0] - 2021-04-29
+### CHANGED
+- Npm audit fix y18n
+
 ## [1.7.0] - 2021-03-15
 ### CHANGED
 - Npm audit fix 
