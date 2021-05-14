@@ -4,7 +4,7 @@
   "description": "scripties ",
   "main": "build/kunst/jandl.html",
   "dependencies": {
-    "stylelint": "^13.6.1",
+    "stylelint": "^13.13.1",
     "stylelint-config-standard": "^20.0.0"
   },
   "devDependencies": {
