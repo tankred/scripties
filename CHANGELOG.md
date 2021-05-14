@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [2.0.0] - 2021-05-14
+### CHANGED
+- Npm audit fix 
+- Upgrade parcel to v2
+
 ## [1.9.0] - 2021-05-14
 ### CHANGED
 - Npm audit fix 
