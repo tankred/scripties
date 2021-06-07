@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [2.1.0] - 2021-06-07
+### CHANGED
+- Dependabot fix WS (websocket update)
+
 ## [2.0.0] - 2021-05-14
 ### CHANGED
 - Npm audit fix 
