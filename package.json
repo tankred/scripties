@@ -2,7 +2,6 @@
   "name": "scripties",
   "version": "1.9.2",
   "description": "scripties ",
-  "main": "build/kunst/jandl.html",
   "dependencies": {
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^22.0.0"
