@@ -1,6 +1,6 @@
 {
   "name": "scripties",
-  "version": "1.9.0",
+  "version": "1.9.2",
   "description": "scripties ",
   "main": "build/kunst/jandl.html",
   "dependencies": {
@@ -8,9 +8,9 @@
     "stylelint-config-standard": "^22.0.0"
   },
   "devDependencies": {
-    "cssnano": "^5.0.2",
-    "parcel": "^2.0.0-beta.2",
-    "postcss": "^8.2.15",
+    "cssnano": "^5.0.8",
+    "parcel": "^2.0.0-rc.0",
+    "postcss": "^8.3.6",
     "postcss-cli": "^8.3.1"
   },
   "scripts": {
