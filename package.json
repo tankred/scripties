@@ -3,11 +3,11 @@
   "version": "1.9.2",
   "description": "scripties ",
   "dependencies": {
-    "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^22.0.0"
+    "stylelint": "^15.6.0",
+    "stylelint-config-standard": "^33.0.0"
   },
   "devDependencies": {
-    "cssnano": "^5.0.8",
+    "cssnano": "^6.0.0",
     "parcel": "^2.0.0-rc.0",
     "postcss": "^8.3.6",
     "postcss-cli": "^8.3.1"
