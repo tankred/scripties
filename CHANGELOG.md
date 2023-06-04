@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.3.1] - 2023-06-04
+### ADDED
+- a print.css file
+
 ## [Released]
 
 ## [2.3.0] - 2023-04-24
