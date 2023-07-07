@@ -3,7 +3,7 @@
   "version": "1.9.2",
   "description": "scripties ",
   "dependencies": {
-    "stylelint": "^15.6.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-standard": "^33.0.0"
   },
   "devDependencies": {
