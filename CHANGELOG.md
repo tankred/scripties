@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.3.2] - 2023-07-30
+### CHANGED
+- Don't wast paper print.css 
+
 ## [2.3.1] - 2023-06-04
 ### ADDED
 - A print.css file

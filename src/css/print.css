@@ -1,3 +1,10 @@
+@media only print
+{
+    body * { display: none !important; }
+    body:after { content: "Don't waste paper!"; }
+}
+
+/**
 @media print {
     *,
     *:before,
@@ -7,4 +14,5 @@
         box-shadow: none !important;
         text-shadow: none !important;
     }
-}
+}**/
+
