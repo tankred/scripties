@@ -10,6 +10,7 @@ Lang: NL
 - [kawara](https://tilde.club/~miccaman/scripties/kunst/kawara.html)
 - [kirkeby](https://tilde.club/~miccaman/scripties/kunst/kirkeby.html)
 - [kelley](https://tilde.club/~miccaman/scripties/kunst/kelley.html)
+- [hertmans](https://tilde.club/~miccaman/scripties/kunst/scriptieShertmans.html)
 
 ![screenshot K](resources/screely-1600087225022.png)
 ![screenshot P](resources/screely-1600087208865.png)
@@ -46,4 +47,5 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 * [A modern CSS reset](https://hankchizljaw.com/wrote/a-modern-css-reset/)
 * How border-radius works: [8 point border radius](https://9elements.github.io/fancy-border-radius/full-control.html)
 * [Shape Divider](https://www.shapedivider.app/)
+* [Don't waste paper print css](https://printstylesheet.dbushell.com)
 
