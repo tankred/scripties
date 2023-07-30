@@ -1,6 +1,6 @@
 {
   "name": "scripties",
-  "version": "1.9.2",
+  "version": "2.4.0",
   "description": "scripties ",
   "dependencies": {
     "stylelint": "^15.6.0",

@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### CHANGED
 - Bump version to 2.4.0
 - Npm update semver
+- Bump package version to 2.4.0
 
 ## [2.3.2] - 2023-07-30
 ### CHANGED
