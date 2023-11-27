@@ -6,15 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [2.4.2] - 2023-11-27
+## [Released]
+
+## [2.5.0] - 2023-11-27
 ### CHANGED
 - Prototype ARCHITECTURE XX
+- Update npm postcss (and -cli)
 
 ## [2.4.1] - 2023-07-30
 ### ADDED
 - Prototype ARCHITECTURE XX
-
-## [Released]
 
 ## [2.4.0] - 2023-07-30
 ### CHANGED
