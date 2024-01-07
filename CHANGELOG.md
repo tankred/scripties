@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [2.5.1] - 2024-12-07
+### CHANGED
+- WIP Prototype ARCHITECTURE XX
+
 ## [2.5.0] - 2023-11-27
 ### CHANGED
 - Prototype ARCHITECTURE XX
