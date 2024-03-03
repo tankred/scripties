@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.5.5] - 2024-03-03
+### CHANGED
+- WIP: Prototype ARCHITECTURE XX
+
 ## [2.5.4] - 2024-02-04
 ### CHANGED
 - WIP: Prototype ARCHITECTURE XX
