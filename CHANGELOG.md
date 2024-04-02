@@ -6,9 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [2.5.6] - 2024-04-02
+## [Released]
+
+## [2.6.0] - 2024-04-02
 ### CHANGED
-- WIP: Prototype ARCHITECTURE XX
+- Prototype ARCHITECTURE XX
+- npm update
 
 ## [2.5.5] - 2024-03-03
 ### CHANGED
@@ -25,8 +28,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.5.2] - 2024-01-14
 ### CHANGED
 - WIP: Prototype ARCHITECTURE XX
-
-## [Released]
 
 ## [2.5.1] - 2024-01-07
 ### CHANGED
