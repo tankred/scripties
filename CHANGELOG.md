@@ -8,9 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
-## [2.6.2] - 2024-06-16
+## [2.7.0] - 2024-06-16
 ### CHANGED
 - Merge ARCHITECTURE XX
+- Update postcss cli
 
 ## [2.6.0] - 2024-04-02
 ### CHANGED
