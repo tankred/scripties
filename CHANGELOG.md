@@ -8,6 +8,45 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [2.7.0] - 2024-06-16
+### CHANGED
+- Merge ARCHITECTURE XX
+- Update postcss cli
+
+## [2.6.0] - 2024-04-02
+### CHANGED
+- Prototype ARCHITECTURE XX
+- npm update
+
+## [2.5.5] - 2024-03-03
+### CHANGED
+- WIP: Prototype ARCHITECTURE XX
+
+## [2.5.4] - 2024-02-04
+### CHANGED
+- WIP: Prototype ARCHITECTURE XX
+
+## [2.5.3] - 2024-01-26
+### CHANGED
+- WIP: Prototype ARCHITECTURE XX
+
+## [2.5.2] - 2024-01-14
+### CHANGED
+- WIP: Prototype ARCHITECTURE XX
+
+## [2.5.1] - 2024-01-07
+### CHANGED
+- WIP Prototype ARCHITECTURE XX
+
+## [2.5.0] - 2023-11-27
+### CHANGED
+- Prototype ARCHITECTURE XX
+- Update npm postcss (and -cli)
+
+## [2.4.1] - 2023-07-30
+### ADDED
+- Prototype ARCHITECTURE XX
+
 ## [2.4.0] - 2023-07-30
 ### CHANGED
 - Bump version to 2.4.0
